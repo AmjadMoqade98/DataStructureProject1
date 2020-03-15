@@ -1,0 +1,58 @@
+A:
+  amjad moqade
+
+B:
+
+C:
+
+D:
+  Database
+  Data structures and algorithms
+
+E:
+
+F:
+
+G:
+  Graphics
+
+H:
+
+I:
+
+J:
+
+K:
+
+L:
+
+M:
+
+N:
+
+O:
+  Operating System
+
+P:
+
+Q:
+
+R:
+
+S:
+  Software Engineering
+
+T:
+
+U:
+
+V:
+
+W:
+
+X:
+
+Y:
+
+Z:
+
